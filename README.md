@@ -1,2 +1,2 @@
 # Python-codes
-My Python projects record
+Testing Python codes simply
